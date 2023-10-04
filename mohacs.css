@@ -1,0 +1,89 @@
+body{
+  background-size: 70px 70px;
+  background-repeat: repeat-y;
+  background-position: right top;
+  padding: 15px 95px 15px 15px;
+  background-color:#720000 ;
+  color: white;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+
+}
+
+#cimkep{
+  float:left;  
+}
+
+#erdekesseg{
+  width:300px;
+  height: 300px;
+  float:right;
+  margin: 0px 0px 20px 15px;
+  background-color: white;
+  -ms-transform: rotate(7deg);
+  -webkit-transform: rotate(7deg);
+  transform: rotate(7deg)
+  
+}
+
+h1{
+  font-size:30pt;
+  color:#720000;
+  background-color: white;
+  padding: 50px;
+  text-align: center;
+  margin: 0 auto;
+  border: dotted 5px;
+
+}
+
+.jobbra{
+  text-align: right;
+  float:right;
+  border-style:dashed;
+  margin:15px;
+  width: 350px;
+  height: 300px;
+}
+
+
+.keret{
+  font-size: 90%;
+  padding: 7px;
+  font-weight: normal;
+  color:#720000;
+}
+
+li{
+  font-weight:bold;
+  
+  
+  
+}
+ul{
+  list-style-image: url(./jel.png);
+ 
+}
+.listahoz{
+  background-color: #fff;
+  color: #720000;
+  border: dotted 5px;
+}
+h3{
+  text-decoration: underline;
+}
+a{
+  text-decoration: underline;
+  color: white;
+}
+a:visited{
+  text-decoration: underline;
+  color: white;
+}
+.beljebb{
+  margin-left: 40px;
+  text-decoration: underline;
+}
+.keretebb{
+  border: solid #f5f3e0 2.5px;
+}
+
